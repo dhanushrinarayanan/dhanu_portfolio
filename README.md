@@ -1,4 +1,4 @@
-# 🚀 Dhanushr N | AI & ML Enthusiast 👨‍💻  
+# 🚀 DHANUSHRI N | AI & ML Enthusiast 👨‍💻  
 
 ## 🎯 About Me  
 Hello! I'm **Dhanushr N**, an aspiring **Machine Learning Engineer** passionate about **AI, Deep Learning, and Explainable AI (XAI)**. I specialize in developing **ML/DL models** for **healthcare, automation, and recommendation systems**.  
