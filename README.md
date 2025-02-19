@@ -9,9 +9,9 @@ Hello! I'm **Dhanushr N**, an aspiring **Machine Learning Engineer** passionate 
  
 ## 🔥 Projects  
 ### 🏥 **AI in Healthcare**  
-- **[🧠 Brain Tumor Detection using CNN] – Classifies MRI scans into tumor types  
-- **[📊 Lung Cancer Prediction with XAI] – Explainable AI model for lung cancer diagnosis  
-- **[🩸 Diabetic Retinopathy Detection] – Multimodal fusion approach for retinal disease detection  
+- **[🧠 Brain Tumor Detection using CNN]** – Classifies MRI scans into tumor types  
+- **[📊 Lung Cancer Prediction with XAI]** – Explainable AI model for lung cancer diagnosis  
+- **[🩸 Diabetic Retinopathy Detection]** – Multimodal fusion approach for retinal disease detection  
 
 ## 🛠 Skills  
 💡 **Machine Learning & Deep Learning:** CNN, SVM, XGBoost, Transformers  
